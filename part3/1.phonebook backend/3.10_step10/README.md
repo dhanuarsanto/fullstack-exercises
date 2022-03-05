@@ -1,1 +1,1 @@
-https://mighty-wildwood-63073.herokuapp.com/api/persons
+https://mighty-wildwood-63073.herokuapp.com
